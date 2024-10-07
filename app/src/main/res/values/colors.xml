@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorAccent">#222F64</color>
+    <color name="background">#222F64</color>
+    <color name="colorAccentLight">#5F6DAA</color>
+    <color name="button_normal">#18A0FB</color>
+    <color name="grey">#EFEFEF</color>
+    <color name="light_grey">#F4F4F4</color>
+    <color name="text_color">#EFEFEF</color>
+    <color name="blue_dark">#992C6194</color>
+
+    <color name="slider1">#BB6A3375</color>
+    <color name="slider2">#BBEAC51E</color>
+    <color name="slider3">#BB1E83EA</color>
+
+
+    <color name="yellow">#ff0</color>
+
+    <color name="login_logout">#ff0</color>
+    <color name="menu_bg">#BB814082</color>
+    <color name="grey_dark">#c7c7c7</color>
+    <color name="text_bg">#f5f5f5</color>
+    <color name="off_black">#302d2d</color>
+    <color name="light_black">#717171</color>
+    <color name="empty_cart_normal">#e4d5e4</color>
+    <color name="empty_cart_selected">#a943a6d4</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="transparent_half">#50ffffff</color>
+    <color name="tab_selected">#2C6194</color>
+    <color name="light_blue">#B3DEFF</color>
+    <color name="tab_select">#18A0FB</color>
+    <color name="tab_color">#2C6194</color>
+    <color name="tab_color_dark"> #2C6194</color>
+    <color name="plastic_cat_color">#2C6194</color>
+    <color name="text_purple">#2C6194</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#F2641D</color>
+    <color name="orange_light">#F6B246</color>
+    <color name="maroon">#8B0000</color>
+    <color name="gray_666_color">#666666</color>
+    <color name="gif_color">#E74C3C</color>
+
+    <!--updated colors of fayha -->
+    gray tone: #F8F8F8
+
+    <color name="dark_blue">#1758A3</color>
+    <color name="card_blue_color">#4684D2</color>
+    <color name="light_blue_color">#C4E0F6</color>
+    <color name="blue_color_price">#5A9CBE</color>
+    <color name="red_tone_color">#EC5B5B</color>
+    <color name="light_blue_c">#ADD8E6</color>
+    <color name="light_blue_">#BCBBC3</color>
+    <color name="gray_color">#999999</color>
+    <color name="blue_color_tone">#E2F0FF</color>
+    <color name="gray_tone">#FAFAFA</color>
+    <color name="copoun_green">#5ABE98</color>
+    <color name="status_gray_tabs">#f1f1f1</color>
+    <color name="status_icons_gray_tabs">#989898</color>
+
+    <color name="copoun_blue">#1F4999</color>
+    <color name="copoun_light_blue">#4883D1</color>
+    <color name="copoun_green_color">#59BD99</color>
+    <color name="copoun_orange">#D66B57</color>
+    <color name="tab_red_circle">#EF5355</color>
+    <color name="bg">#80989898</color>
+    <color name="all_product_main_bg">#FFFFFF</color>
+    <color name="all_product_price_black">#000000</color>
+    <color name="home_product_heading_dark_blue">#1758A3</color>
+
+    <color name="md_white_1000">#FFFFFF</color>
+    <color name="md_blue_grey_500">#607D8B</color>
+    <color name="dialog_error_darker">#E53935</color>
+    <color name="dialog_warning_darker">#F9A825</color>
+    <color name="dialog_info_darker">#1565C0</color>
+    <color name="dialog_success_darker">#43A047</color>
+    <color name="dialog_success">#48D865</color>
+    <color name="dialog_error">#FF6B5F</color>
+    <color name="dialog_info">#3086EB</color>
+    <color name="dialog_warning">#FFC122</color>
+    <color name="red_connectify">#EB1F5D</color>
+    <color name="productColor">#F3007A</color>
+    <color name="green_connectify">#61C730</color>
+    <color name="dark_background">#2F3032</color>
+    <color name="dark_red">#D6006D</color>
+    <color name="dark_blue_new">#143387</color>
+    <color name="dark_b">#143387</color>
+    <color name="dark_G">#929292</color>
+    <color name="gray_new">#AFAFAF</color>
+    <color name="orange_color">#f56b2a</color>
+
+
+    <color name="coupon_1st">#D8FFE8</color>
+    <color name="coupon_2st">#D8E1FF</color>
+    <color name="coupon_3rd">#FFBFDF</color>
+    <color name="delivered_text_colour">#00C714</color>
+    <color name="star_color">#FABB1A</color>
+
+    <color name="gray_900_color">#101828</color>
+    <color name="dark_700_gray">#344054</color>
+    <color name="gray_600_color">#475467</color>
+    <color name="green">#12B76A</color>
+    <color name="gray_500_color">#667085</color>
+    <color name="red_100">#D92D20</color>
+    <color name="warning_25">#FFFCF5</color>
+    <color name="warning_800">#93370D</color>
+    <color name="dark_800_lite">#C5E2E1</color>
+    <color name="dark_lite">#007E8A</color>
+
+    <color name="light_gray">#e8e8e8</color>
+
+</resources>
